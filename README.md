@@ -1,4 +1,4 @@
-![alt text](https://github.com/GouZenKun/WeatherApp/edit/main/assets/images/screenshot.png?raw=true)
+![alt text](https://github.com/GouZenKun/WeatherApp/blob/main/assets/images/screenshot.png?raw=true)
 
 ## 概要
 天気予報アプリです。
