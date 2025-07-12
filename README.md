@@ -1,8 +1,8 @@
-## 最初に
+![alt text](https://github.com/GouZenKun/WeatherApp/edit/main/assets/images/screenshot.png?raw=true)
+
+## 概要
 天気予報アプリです。
-
 [Open Weather Map](https://openweathermap.org/)のAPIを使用されてるため、.envファイルを作成してAPI_KEYを設定してください。
-
 株式会社バリーン・スタジオのキャラクターを使用させていただきました。
 
 ## アーキテクチャ
